@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Get List Users from /api/users?page=1</description>
+   <name>TC01 - Get List Users</name>
+   <tag>GET</tag>
+   <comment></comment>
+   <testCaseGuid>cf3877e2-bdc7-491f-9d25-a89b34281211</testCaseGuid>
+</TestCaseEntity>
